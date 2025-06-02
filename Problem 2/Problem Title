@@ -1,0 +1,7 @@
+🔢 Maximum Equal End Sums 🔢
+
+You're given an array of n integers.
+Your mission 🎯: Split the array into three contiguous parts (they can be empty too) such that:
+✅ The sum of the first part equals the sum of the third part
+✅ This common sum is as large as possible 📈
+Return that maximum possible sum.. 🧠💪
