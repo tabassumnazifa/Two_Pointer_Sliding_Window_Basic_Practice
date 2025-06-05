@@ -1,0 +1,9 @@
+Given an array of n integers, determine if there are two distinct elements whose sum is k.
+
+Input
+The first input line has an integer n.
+The second line has n integers.
+The third line has an integer k.
+
+Output
+Print "YES" if such a pair exists, otherwise "NO".
