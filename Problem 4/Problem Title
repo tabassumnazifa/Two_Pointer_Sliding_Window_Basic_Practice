@@ -1,0 +1,2 @@
+You're given an array and a target sum.
+The goal is to count how many unique pairs (a, b) exist such that a + b = target.
